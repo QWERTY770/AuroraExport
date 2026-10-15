@@ -1,0 +1,379 @@
+[
+  [
+    "de-de",
+    [
+      {
+        "key": "11",
+        "name": "Figuren-Aktionswarp"
+      },
+      {
+        "key": "12",
+        "name": "Lichtkegel-Aktionswarp"
+      },
+      {
+        "key": "1",
+        "name": "Standardwarp"
+      },
+      {
+        "key": "2",
+        "name": "Einsteigerwarp"
+      },
+      {
+        "key": "21",
+        "name": "Figuren-Kollaborationswarp"
+      },
+      {
+        "key": "22",
+        "name": "Lichtkegel-Kollaborationswarp"
+      }
+    ]
+  ],
+  [
+    "ru-ru",
+    [
+      {
+        "key": "11",
+        "name": "Прыжок события: Персонаж"
+      },
+      {
+        "key": "12",
+        "name": "Прыжок события: Световой конус"
+      },
+      {
+        "key": "1",
+        "name": "Стандартный прыжок"
+      },
+      {
+        "key": "2",
+        "name": "Прыжок новичка"
+      },
+      {
+        "key": "21",
+        "name": "Совместный Прыжок события: Персонаж"
+      },
+      {
+        "key": "22",
+        "name": "Совместный Прыжок события: Световой конус"
+      }
+    ]
+  ],
+  [
+    "th-th",
+    [
+      {
+        "key": "11",
+        "name": "กิจกรรมวาร์ปตัวละคร"
+      },
+      {
+        "key": "12",
+        "name": "กิจกรรมวาร์ป Light Cone"
+      },
+      {
+        "key": "1",
+        "name": "วาร์ปถาวร"
+      },
+      {
+        "key": "2",
+        "name": "วาร์ปสำหรับมือใหม่"
+      },
+      {
+        "key": "21",
+        "name": "กิจกรรมวาร์ปตัวละครคอลแลบ"
+      },
+      {
+        "key": "22",
+        "name": "กิจกรรมวาร์ป Light Cone คอลแลบ"
+      }
+    ]
+  ],
+  [
+    "zh-cn",
+    [
+      {
+        "key": "11",
+        "name": "角色活动跃迁"
+      },
+      {
+        "key": "12",
+        "name": "光锥活动跃迁"
+      },
+      {
+        "key": "1",
+        "name": "常驻跃迁"
+      },
+      {
+        "key": "2",
+        "name": "新手跃迁"
+      },
+      {
+        "key": "21",
+        "name": "角色联动跃迁"
+      },
+      {
+        "key": "22",
+        "name": "光锥联动跃迁"
+      }
+    ]
+  ],
+  [
+    "zh-tw",
+    [
+      {
+        "key": "11",
+        "name": "角色活動躍遷"
+      },
+      {
+        "key": "12",
+        "name": "光錐活動躍遷"
+      },
+      {
+        "key": "1",
+        "name": "常駐躍遷"
+      },
+      {
+        "key": "2",
+        "name": "新手躍遷"
+      },
+      {
+        "key": "21",
+        "name": "角色聯動躍遷"
+      },
+      {
+        "key": "22",
+        "name": "光錐聯動躍遷"
+      }
+    ]
+  ],
+  [
+    "en-us",
+    [
+      {
+        "key": "11",
+        "name": "Character Event Warp"
+      },
+      {
+        "key": "12",
+        "name": "Light Cone Event Warp"
+      },
+      {
+        "key": "1",
+        "name": "Regular Warp"
+      },
+      {
+        "key": "2",
+        "name": "Starter Warp"
+      },
+      {
+        "key": "21",
+        "name": "Character Collaboration Warp"
+      },
+      {
+        "key": "22",
+        "name": "Light Cone Collaboration Warp"
+      }
+    ]
+  ],
+  [
+    "es-es",
+    [
+      {
+        "key": "11",
+        "name": "Salto de evento de personaje"
+      },
+      {
+        "key": "12",
+        "name": "Salto de evento de cono de luz"
+      },
+      {
+        "key": "1",
+        "name": "Salto normal"
+      },
+      {
+        "key": "2",
+        "name": "Salto de principiante"
+      },
+      {
+        "key": "21",
+        "name": "Salto de personaje de colaboración"
+      },
+      {
+        "key": "22",
+        "name": "Salto de cono de luz de colaboración"
+      }
+    ]
+  ],
+  [
+    "fr-fr",
+    [
+      {
+        "key": "11",
+        "name": "Saut hyperespace événement de personnage"
+      },
+      {
+        "key": "12",
+        "name": "Saut hyperespace événement de cônes de lumière"
+      },
+      {
+        "key": "1",
+        "name": "Saut hyperespace classique"
+      },
+      {
+        "key": "2",
+        "name": "Saut hyperespace de départ"
+      },
+      {
+        "key": "21",
+        "name": "Saut de collaboration de personnage"
+      },
+      {
+        "key": "22",
+        "name": "Saut événement de collaboration de cône de lumière"
+      }
+    ]
+  ],
+  [
+    "id-id",
+    [
+      {
+        "key": "11",
+        "name": "Event Warp Karakter"
+      },
+      {
+        "key": "12",
+        "name": "Event Warp Light Cone"
+      },
+      {
+        "key": "1",
+        "name": "Warp Reguler"
+      },
+      {
+        "key": "2",
+        "name": "Warp Pemula"
+      },
+      {
+        "key": "21",
+        "name": "Warp Kolaborasi Karakter"
+      },
+      {
+        "key": "22",
+        "name": "Warp Kolaborasi Light Cone"
+      }
+    ]
+  ],
+  [
+    "ja-jp",
+    [
+      {
+        "key": "11",
+        "name": "イベント跳躍・キャラクター"
+      },
+      {
+        "key": "12",
+        "name": "イベント跳躍・光円錐"
+      },
+      {
+        "key": "1",
+        "name": "恒常跳躍"
+      },
+      {
+        "key": "2",
+        "name": "初心者跳躍"
+      },
+      {
+        "key": "21",
+        "name": "コラボ跳躍・キャラクター"
+      },
+      {
+        "key": "22",
+        "name": "コラボ跳躍・光円錐"
+      }
+    ]
+  ],
+  [
+    "ko-kr",
+    [
+      {
+        "key": "11",
+        "name": "캐릭터 이벤트 워프"
+      },
+      {
+        "key": "12",
+        "name": "광추 이벤트 워프"
+      },
+      {
+        "key": "1",
+        "name": "상시 워프"
+      },
+      {
+        "key": "2",
+        "name": "초보자 워프"
+      },
+      {
+        "key": "21",
+        "name": "캐릭터 콜라보 워프"
+      },
+      {
+        "key": "22",
+        "name": "광추 콜라보 워프"
+      }
+    ]
+  ],
+  [
+    "pt-pt",
+    [
+      {
+        "key": "11",
+        "name": "Salto Hiperespacial de Evento de Personagem"
+      },
+      {
+        "key": "12",
+        "name": "Salto Hiperespacial de Evento de Cone de Luz"
+      },
+      {
+        "key": "1",
+        "name": "Salto Hiperespacial Permanente"
+      },
+      {
+        "key": "2",
+        "name": "Salto Hiperespacial Inicial"
+      },
+      {
+        "key": "21",
+        "name": "Salto Hiperespacial de Colaboração de Personagem"
+      },
+      {
+        "key": "22",
+        "name": "Salto Hiperespacial de Colaboração de Cone de Luz"
+      }
+    ]
+  ],
+  [
+    "vi-vn",
+    [
+      {
+        "key": "11",
+        "name": "Bước Nhảy Sự Kiện Nhân Vật"
+      },
+      {
+        "key": "12",
+        "name": "Bước Nhảy Sự Kiện Nón Ánh Sáng"
+      },
+      {
+        "key": "1",
+        "name": "Bước Nhảy Vĩnh Viễn"
+      },
+      {
+        "key": "2",
+        "name": "Bước Nhảy Tân Thủ"
+      },
+      {
+        "key": "21",
+        "name": "Bước Nhảy Nhân Vật Hợp Tác"
+      },
+      {
+        "key": "22",
+        "name": "Bước Nhảy Nón Ánh Sáng Hợp Tác"
+      }
+    ]
+  ]
+]

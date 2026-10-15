@@ -1,0 +1,15 @@
+# 中国大陆访问 crates.io 较慢时使用镜像加速。
+# 不需要的话可以直接删除本文件（删除后走官方 crates.io）。
+# Delete this file to use the official crates.io registry instead.
+
+[source.crates-io]
+replace-with = "rsproxy-sparse"
+
+[source.rsproxy-sparse]
+registry = "sparse+https://rsproxy.cn/index/"
+
+[registries.rsproxy]
+index = "sparse+https://rsproxy.cn/index/"
+
+[net]
+retry = 10
